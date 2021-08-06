@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- this is head tag -->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+</head>
+<!-- this is body tag -->
+<body>
+    <!-- this is heading tags -->
+    <h1>H1</h1>
+    <h2>H2</h2>
+    <h3>H3</h3>
+    <h4>H4</h4>
+    <h5>H5</h5>
+    <h6>H6</h6>
+<hr>
+<!-- this is header tag -->
+<header>
+    This is header
+    <!-- this is nevigation tag -->
+    <nav>This is about</nav>
+</header>
+<!-- this is main tag -->
+<main>
+    <!-- this is section tag -->
+    <section>This is section</section>
+    <!-- this is article tag -->
+    <article>This is article</article>
+    <!-- this is aside tag -->
+    <aside>This is ad.</aside>
+</main>
+<hr>
+    <!-- this is paragraph tag -->
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, nisi, temporibus repudiandae reprehenderit neque possimus quia nesciunt esse explicabo, magni similique soluta ad inventore pariatur mollitia laborum obcaecati tenetur praesentium.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, ratione!</p>
+<hr>
+    <!-- example of absolute link -->
+    <!-- target="_main"=open with new tab -->
+    <a href="https://meaningofgk.blogspot.com" target="_main">
+        <img src="https://1.bp.blogspot.com/-N40QFTe6d3E/YOW_UxdwZ9I/AAAAAAAACls/9dmHEVwzZC8UUTSXy3ztl1CvffpegaHvQCLcBGAsYHQ/w945-h600-p-k-no-nu/Algiers.jpg" alt="Meaning Of GK" width="100px"><br>
+        Go to Meaning Of G.K.</a><br>
+    <!-- example of relative link -->
+    <a href="/Html/Hello.html" target="_blank">Go to Hallo</a><br>
+<hr>
+    <!-- img tag -->
+    <img src="https://images.unsplash.com/photo-1627798010473-dc3e07631fc8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80" alt="Wallpaper" width="121px">
+<hr>
+    <!-- bold, italic and underline tags -->
+    <b>This is Bold</b><br>
+    <i>This is Italic</i><br>
+    <u>This is Underline</u><br>
+<hr>
+    <!-- big and small tags -->
+    <big>This is Big</big><br>
+    <small>This is small</small><br>
+<hr>
+    <!-- this is subscript and superscript tags -->
+    <p>CO<sub>2</sub></p>
+    <p>ax<sup>2</sup> + bx + c</p>
+<hr>
+    <!-- this is pre tag -->
+    <pre>
+Python tags are used to indicate both which Python implementation a package requires (if any), as well as the version required. The tag is made up of two portions which describe this relationship. The tags defined in PEP425 take the following form:
+
+First two characters contain Python implementation description
+Final one or two characters are the Major and Minor version of the Python implementation. Brood (as wheel) use the Major and Minor version of the Python language that the implementation provides.
+    </pre>
+</body>
+</html>
